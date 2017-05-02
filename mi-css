@@ -1,0 +1,29 @@
+body {
+  background-color: crimson;
+  font-family: helvetica;
+  color: white;
+  padding: 90px;
+  margin: 90px;
+  border: 10px white solid;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding: 50px 30px 50px 30px;
+}
+
+h1 {
+  font-family: courier;
+  color: white;
+}
+
+p {
+  color: black;
+  text-align: justify;
+}
+
+a {
+  color: white;
+}
+
+h1.importante {
+  font-size: 50px;
+}
